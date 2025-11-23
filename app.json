@@ -1,5 +1,5 @@
 {
-  "name": "OVL-MD-V2",
+  "name": "NEXUS-MD-V2",
   "description": "Bot WhatsApp Multi-Device basé sur Baileys",
   "keywords": ["Ainz", "OVL-MD-V2", "Whatsapp", "Baileys", "Muti-device"],
   "logo": "https://files.catbox.moe/lojrxz.jpg",
@@ -9,17 +9,17 @@
   "env": {
     "PREFIXE": {
       "description": "Préfixe utilisé pour les commandes du bot",
-      "value": ".",
+      "value": "&",
       "required": false
     },
     "NOM_OWNER": {
       "description": "Nom de l'Owner du bot",
-      "value": "Ainz",
+      "value": "kim okarun rudeus frontera",
       "required": false
     },
     "NUMERO_OWNER": {
       "description": "Numéro WhatsApp de l'Owner (au format international)",
-      "value": "226xxxxxxxx",
+      "value": "25762084182",
       "required": true
     },
     "MODE": {
@@ -29,17 +29,17 @@
     },
     "SESSION_ID": {
       "description": "Identifiant de session",
-      "value": "",
+      "value": "Ovl-MD_tZiea6mB_SESSION-ID",
       "required": true
     },
     "STICKER_PACK_NAME": {
       "description": "Nom du pack de stickers",
-      "value": "ᴏᴠʟ-ᴍᴅ-ᴠ𝟸",
+      "value": "⚡kim rudeus⚡•stick",
       "required": false
     },
     "STICKER_AUTHOR_NAME": {
       "description": "Auteur du sticker",
-      "value": "ᴀɪɴᴢ🔅✨",
+      "value": "⚠️kim frontera⚠️",
       "required": false
     }
   },
